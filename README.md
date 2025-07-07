@@ -2,27 +2,6 @@
 
 A comprehensive MERN stack application for the Government Environmental Agency (CEA) to track, manage, and share rainfall data. This system provides secure API access, role-based authentication, and a modern web interface for monitoring environmental data.
 
-## 📋 Assignment Documentation
-
-This project includes a comprehensive assignment document covering full-stack development implementation, security hardening, and industry best practices. The assignment document is available as:
-
-- **Markdown Format**: `CEA_Rainfall_Tracker_Assignment.md` - View in any text editor or VS Code
-- **Assignment Topics Covered**:
-  - Task 1: Full-Stack Development Options and MERN Stack Justification
-  - Task 2: Design and Implementation of API Endpoints and Database Schema
-  - Task 3: Security Hardening and Threat Mitigation
-  - Merit Criteria: Cloud-based SOA, MERN Stack Benefits, Security Decisions
-  - Distinction: Solution Evaluation and Industry Best Practices
-
-**To view the assignment document:**
-```bash
-# Open in VS Code
-code CEA_Rainfall_Tracker_Assignment.md
-
-# Or open with any text editor
-notepad CEA_Rainfall_Tracker_Assignment.md
-```
-
 ## 🌟 Features
 
 ### 🔐 Security & Authentication

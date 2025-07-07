@@ -1,0 +1,39 @@
+{
+  "name": "cea-rainfall-tracker-server",
+  "version": "1.0.0",
+  "description": "Backend API for CEA Rainfall Tracker - Government Environmental Agency",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "load-data": "node scripts/loadSampleData.js"
+  },
+  "keywords": [
+    "rainfall",
+    "government",
+    "environmental",
+    "api",
+    "mongodb"
+  ],
+  "author": "CEA Development Team",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "cookie": "^1.0.2",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "csv-parser": "^3.0.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-rate-limit": "^6.10.0",
+    "express-validator": "^7.0.1",
+    "helmet": "^7.0.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^7.5.0",
+    "winston": "^3.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
